@@ -1,0 +1,11 @@
+.div_all{
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+body{
+    background-color: darkslategrey;
+    margin: 0;
+    padding: 70px;
+}
